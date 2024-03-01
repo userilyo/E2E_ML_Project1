@@ -1,4 +1,5 @@
-# END TO END MACHINE LEARNING PROJECT: Students Performance in Exams Analysis
+# END TO END MACHINE LEARNING PROJECT:
+## Students Performance in Exams Analysis
 
 ### 1) Problem statement
 - This project seeks to analyze the multifaceted influences on student performance, including variables such as gender, ethnicity, parental level of education, lunch status, and participation in test preparation courses. Main **inspiration** is : To understand the influence of the parents background, test preparation etc on students performance.
